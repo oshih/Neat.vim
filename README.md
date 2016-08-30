@@ -1,0 +1,2 @@
+# Neat.vim
+Vim settings
