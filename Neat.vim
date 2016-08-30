@@ -14,7 +14,7 @@ let g:colors_name = "Neat"
 "hi CTagsMember -- no settings --
 "hi CTagsGlobalConstant -- no settings --
 "hi Ignore -- no settings --
-hi Normal guifg=#e1e1e6 guibg=#192224 guisp=#192224 gui=NONE ctermfg=254 ctermbg=235 cterm=NONE
+hi Normal guifg=#f2f2f5 guibg=#192224 guisp=#192224 gui=NONE ctermfg=255 ctermbg=235 cterm=NONE
 "hi CTagsImport -- no settings --
 "hi CTagsGlobalVariable -- no settings --
 "hi EnumerationValue -- no settings --
@@ -47,7 +47,7 @@ hi Conditional guifg=#d6ab00 guibg=NONE guisp=NONE gui=bold ctermfg=178 ctermbg=
 hi StorageClass guifg=#657cad guibg=NONE guisp=NONE gui=bold ctermfg=67 ctermbg=NONE cterm=bold
 hi Todo guifg=#e1e1e6 guibg=#BD9800 guisp=#BD9800 gui=NONE ctermfg=254 ctermbg=1 cterm=NONE
 hi Special guifg=#d6ab00 guibg=NONE guisp=NONE gui=NONE ctermfg=178 ctermbg=NONE cterm=NONE
-hi LineNr guifg=#967800 guibg=NONE guisp=NONE gui=NONE ctermfg=94 ctermbg=NONE cterm=NONE
+hi LineNr guifg=#864503 guibg=NONE guisp=NONE gui=NONE ctermfg=94 ctermbg=NONE cterm=NONE
 hi StatusLine guifg=#2d393e guibg=#BD9800 guisp=#BD9800 gui=bold ctermfg=237 ctermbg=1 cterm=bold
 hi Label guifg=#d6ab00 guibg=NONE guisp=NONE gui=bold ctermfg=178 ctermbg=NONE cterm=bold
 hi PMenuSel guifg=#2d393e guibg=#BD9800 guisp=#BD9800 gui=NONE ctermfg=237 ctermbg=1 cterm=NONE
@@ -55,10 +55,10 @@ hi Search guifg=#2d393e guibg=#BD9800 guisp=#BD9800 gui=NONE ctermfg=237 ctermbg
 hi Delimiter guifg=#d6ab00 guibg=NONE guisp=NONE gui=NONE ctermfg=178 ctermbg=NONE cterm=NONE
 hi Statement guifg=#d6ab00 guibg=NONE guisp=NONE gui=bold ctermfg=178 ctermbg=NONE cterm=bold
 hi SpellRare guifg=#e1e1e6 guibg=#192224 guisp=#192224 gui=underline ctermfg=254 ctermbg=235 cterm=underline
-hi Comment guifg=#aebabc guibg=NONE guisp=NONE gui=italic ctermfg=250 ctermbg=NONE cterm=NONE
+hi Comment guifg=#286167 guibg=NONE guisp=NONE gui=italic ctermfg=23 ctermbg=NONE cterm=NONE
 hi Character guifg=#bac0c2 guibg=NONE guisp=NONE gui=NONE ctermfg=7 ctermbg=NONE cterm=NONE
 hi Float guifg=#bac0c2 guibg=NONE guisp=NONE gui=NONE ctermfg=7 ctermbg=NONE cterm=NONE
-hi Number guifg=#bac0c2 guibg=NONE guisp=NONE gui=NONE ctermfg=7 ctermbg=NONE cterm=NONE
+hi Number guifg=#cfe673 guibg=NONE guisp=NONE gui=NONE ctermfg=149 ctermbg=NONE cterm=NONE
 hi Boolean guifg=#bac0c2 guibg=NONE guisp=NONE gui=NONE ctermfg=7 ctermbg=NONE cterm=NONE
 hi Operator guifg=#d6ab00 guibg=NONE guisp=NONE gui=bold ctermfg=178 ctermbg=NONE cterm=bold
 hi CursorLine guifg=NONE guibg=#222E30 guisp=#222E30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
