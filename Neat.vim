@@ -3,6 +3,8 @@
 set background=dark
 syntax enable
 set nu
+set mouse=a
+
 if version > 580
 	hi clear
 	if exists("syntax_on")
